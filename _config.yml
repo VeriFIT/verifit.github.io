@@ -24,7 +24,7 @@ url                      : "verifit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "VeriFIT/verifit.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/verifit-logo/verifit-logo-smaller.png"
+logo                     : #"/assets/images/verifit-logo/verifit-logo-smaller.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : # "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/verifit-logo/verifit-logo-smaller.png"
   bio              : #"I am an amazing person."
   location         : "Brno, Czech Republic"
   email            :
