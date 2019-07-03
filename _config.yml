@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : # "Your Name"
-  avatar           : "/assets/images/verifit-logo/verifit-logo-smaller.png"
+  avatar           : "/assets/images/verifit-logo/verifit-logo-small.png"
   bio              : #"I am an amazing person."
   location         : "Brno, Czech Republic"
   email            :
