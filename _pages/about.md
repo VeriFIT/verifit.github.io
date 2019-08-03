@@ -3,6 +3,7 @@ permalink: /about/
 published: true
 title: About
 classes: single
+toc: true
 ---
 **VeriFIT** is a group including researchers and students from FIT BUT interested in research on methods of **automated analysis and verification** of systems. The interests of the group include *formal analysis and verification* (static analysis, abstract interpretation, model checking), *dynamic analysis* (i.e., analysis at run-time), intelligent testing as well as methods of *self-healing* of systems. The group is involved in basic research in the described areas as well as in development and evaluation of prototype verification tools.
 
