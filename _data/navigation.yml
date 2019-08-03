@@ -8,8 +8,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Home"
-    url: /
+  - title: "About"
+    url: /about/
   - title: "Team"
     url: /team/
   - title: "Publications"
