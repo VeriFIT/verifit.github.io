@@ -8,7 +8,9 @@ toc: true
 
 **XXXXXXXXXXXXXX PHOTO XXXXXXXXXXXXXXXX**
 
-[![Poster 2017](/files/poster2017-small.png)](/files/poster2017.pdf)
+blabla
+
+[![Poster 2017](/files/poster2017-small.png)](/files/poster2017.pdf){: .align-right}
 
 and this is nothing
 
