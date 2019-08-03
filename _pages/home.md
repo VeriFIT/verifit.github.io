@@ -11,7 +11,7 @@ toc: true
 **XXXXXXXXXXXXXX POSTER XXXXXXXXXXXXXXXX**
 ![Poster text](/files/poster2017-small.png)
 
-[Get the PDF](files/poster2017.png)
+[Get the PDF](/files/poster2017.png)
 
 
 **XXXXXXXXXXXX SOMETHING SHORT XXXXXXXXX**
