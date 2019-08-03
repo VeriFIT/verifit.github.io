@@ -1,6 +1,6 @@
 ---
 permalink: /
 published: true
-classes: wide
+classes: single
 ---
 Home sweet home.  Remove this
