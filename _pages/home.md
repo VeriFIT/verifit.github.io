@@ -11,6 +11,8 @@ toc: true
 **XXXXXXXXXXXXXX POSTER XXXXXXXXXXXXXXXX**
 ![Poster text](/files/poster2017-small.png)
 
+hahaha
+
 **XXXXXXXXXXXX SOMETHING SHORT XXXXXXXXX**
 
 <ul>
