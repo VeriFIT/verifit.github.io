@@ -9,9 +9,9 @@ toc: true
 **XXXXXXXXXXXXXX PHOTO XXXXXXXXXXXXXXXX**
 
 **XXXXXXXXXXXXXX POSTER XXXXXXXXXXXXXXXX**
-![Poster text](/files/poster2017-small.png)
+![Poster 2017](/files/poster2017-small.png)
 
-[Get the PDF](/files/poster2017.png)
+[![Poster 2017](/files/poster2017-small.png)](/files/poster2017.pdf)
 
 
 **XXXXXXXXXXXX SOMETHING SHORT XXXXXXXXX**
