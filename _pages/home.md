@@ -9,5 +9,17 @@ toc: true
 **XXXXXXXXXXXXXX PHOTO XXXXXXXXXXXXXXXX**
 
 **XXXXXXXXXXXXXX POSTER XXXXXXXXXXXXXXXX**
+![Poster 2017](/files/poster2017-small.png)
+
+[![Poster 2017](/files/poster2017-small.png)](/files/poster2017.pdf)
+
 
 **XXXXXXXXXXXX SOMETHING SHORT XXXXXXXXX**
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
