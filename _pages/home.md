@@ -3,4 +3,4 @@ permalink: /
 published: true
 classes: wide
 ---
-Home sweet home
+Home sweet home.  Remove this
