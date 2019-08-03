@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "dirt" # "default" # "air", "aqua", "contrast", "dark
 locale                   : "en-US"
 title                    : "VeriFIT"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "VeriFIT"
+description              : "An amazing website. XXXXXXXXXXXXXX"
 url                      : "verifit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "VeriFIT/verifit.github.io"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Name"
+  name             : "VeriFIT"
   avatar           : "/assets/images/verifit-logo/verifit-logo-small.png"
   bio              : #"I am an amazing person."
   location         : "Brno, Czech Republic"
@@ -284,7 +284,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
